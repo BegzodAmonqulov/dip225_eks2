@@ -1,0 +1,35 @@
+{
+  "name": "Dark Tech Dashboard",
+  "background": "#141726",
+  "foreground": "#E6E8EF",
+  "tableAccent": "#22D3EE",
+  "dataColors": [
+    "#22D3EE",
+    "#4C6FFF",
+    "#34C759",
+    "#FF4D4F",
+    "#F59E0B",
+    "#A78BFA"
+  ],
+  "visualStyles": {
+    "*": {
+      "titleText": [
+        {
+          "color": { "solid": { "color": "#E6E8EF" } },
+          "fontSize": 13,
+          "fontFamily": "Segoe UI"
+        }
+      ],
+      "labels": [
+        {
+          "color": { "solid": { "color": "#9AA0B4" } }
+        }
+      ],
+      "background": [
+        {
+          "color": { "solid": { "color": "#1E2133" } }
+        }
+      ]
+    }
+  }
+}
